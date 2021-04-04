@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="6.0.29.0" md5="c406935222e2b07e5e42a4b397b68be8"><BuildInfo>
+    <Property name="Created">2012-03-13 12:26:17.825000</Property>
+    <Property name="TargetName">AdobeBridge5-mul</Property>
+    <Property name="ProcessorFamily">All</Property>
+  </BuildInfo><InstallerProperties>
+    <Property name="payloadType">SQLite</Property>
+    <Property name="AdobeCode">{97BA0109-F6BE-4F50-8904-C19442D7216E}</Property>
+    <Property name="ProductName">Adobe Bridge CS6</Property>
+    <Property name="ProductVersion">5.0</Property>
+    <Property name="KeyFolder">[INSTALLDIR]/Adobe Bridge CS6</Property>
+  </InstallerProperties><Languages languageIndependent="1"/><Satisfies>
+    <ProductInfo>
+        <Family>CoreTech</Family>
+        <ProductName>Adobe Bridge CS6</ProductName>
+    <ProductVersion>5.0</ProductVersion>
+    </ProductInfo>
+  </Satisfies><AddRemoveInfo>
+    <IconFile>[INSTALLDIR]\Adobe Bridge CS6\icon\bridge.ico</IconFile>
+    <DisplayVersion>
+      <Value lang="ar_AE">5.0</Value>
+      <Value lang="be_BY">5.0</Value>
+      <Value lang="bg_BG">5.0</Value>
+      <Value lang="ca_ES">5.0</Value>
+      <Value lang="cs_CZ">5.0</Value>
+      <Value lang="da_DK">5.0</Value>
+      <Value lang="de_DE">5.0</Value>
+      <Value lang="el_GR">5.0</Value>
+      <Value lang="en_GB">5.0</Value>
+      <Value lang="en_MX">5.0</Value>
+      <Value lang="en_US">5.0</Value>
+      <Value lang="en_XC">5.0</Value>
+      <Value lang="en_XM">5.0</Value>
+      <Value lang="es_ES">5.0</Value>
+      <Value lang="es_MX">5.0</Value>
+      <Value lang="es_QM">5.0</Value>
+      <Value lang="et_EE">5.0</Value>
+      <Value lang="fi_FI">5.0</Value>
+      <Value lang="fr_CA">5.0</Value>
+      <Value lang="fr_FR">5.0</Value>
+      <Value lang="fr_MX">5.0</Value>
+      <Value lang="fr_XM">5.0</Value>
+      <Value lang="he_IL">5.0</Value>
+      <Value lang="hi_IN">5.0</Value>
+      <Value lang="hr_HR">5.0</Value>
+      <Value lang="hu_HU">5.0</Value>
+      <Value lang="is_IS">5.0</Value>
+      <Value lang="it_IT">5.0</Value>
+      <Value lang="ja_JP">5.0</Value>
+      <Value lang="ko_KR">5.0</Value>
+      <Value lang="lt_LT">5.0</Value>
+      <Value lang="lv_LV">5.0</Value>
+      <Value lang="mk_MK">5.0</Value>
+      <Value lang="nb_NO">5.0</Value>
+      <Value lang="nl_NL">5.0</Value>
+      <Value lang="nn_NO">5.0</Value>
+      <Value lang="no_NO">5.0</Value>
+      <Value lang="pl_PL">5.0</Value>
+      <Value lang="pt_BR">5.0</Value>
+      <Value lang="ro_RO">5.0</Value>
+      <Value lang="ru_RU">5.0</Value>
+      <Value lang="sh_YU">5.0</Value>
+      <Value lang="sk_SK">5.0</Value>
+      <Value lang="sl_SI">5.0</Value>
+      <Value lang="sq_AL">5.0</Value>
+      <Value lang="sv_SE">5.0</Value>
+      <Value lang="th_TH">5.0</Value>
+      <Value lang="tr_TR">5.0</Value>
+      <Value lang="uk_UA">5.0</Value>
+      <Value lang="vi_VN">5.0</Value>
+      <Value lang="zh_CN">5.0</Value>
+      <Value lang="zh_TW">5.0</Value>
+      <Value lang="en_AE">5.0</Value>
+      <Value lang="en_IL">5.0</Value>
+      <Value lang="fr_MA">5.0</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="ar_AE">Adobe Bridge CS6</Value>
+      <Value lang="be_BY">Adobe Bridge CS6</Value>
+      <Value lang="bg_BG">Adobe Bridge CS6</Value>
+      <Value lang="ca_ES">Adobe Bridge CS6</Value>
+      <Value lang="cs_CZ">Adobe Bridge CS6</Value>
+      <Value lang="da_DK">Adobe Bridge CS6</Value>
+      <Value lang="de_DE">Adobe Bridge CS6</Value>
+      <Value lang="el_GR">Adobe Bridge CS6</Value>
+      <Value lang="en_GB">Adobe Bridge CS6</Value>
+      <Value lang="en_MX">Adobe Bridge CS6</Value>
+      <Value lang="en_US">Adobe Bridge CS6</Value>
+      <Value lang="en_XC">Adobe Bridge CS6</Value>
+      <Value lang="en_XM">Adobe Bridge CS6</Value>
+      <Value lang="es_ES">Adobe Bridge CS6</Value>
+      <Value lang="es_MX">Adobe Bridge CS6</Value>
+      <Value lang="es_QM">Adobe Bridge CS6</Value>
+      <Value lang="et_EE">Adobe Bridge CS6</Value>
+      <Value lang="fi_FI">Adobe Bridge CS6</Value>
+      <Value lang="fr_CA">Adobe Bridge CS6</Value>
+      <Value lang="fr_FR">Adobe Bridge CS6</Value>
+      <Value lang="fr_MX">Adobe Bridge CS6</Value>
+      <Value lang="fr_XM">Adobe Bridge CS6</Value>
+      <Value lang="he_IL">Adobe Bridge CS6</Value>
+      <Value lang="hi_IN">Adobe Bridge CS6</Value>
+      <Value lang="hr_HR">Adobe Bridge CS6</Value>
+      <Value lang="hu_HU">Adobe Bridge CS6</Value>
+      <Value lang="is_IS">Adobe Bridge CS6</Value>
+      <Value lang="it_IT">Adobe Bridge CS6</Value>
+      <Value lang="ja_JP">Adobe Bridge CS6</Value>
+      <Value lang="ko_KR">Adobe Bridge CS6</Value>
+      <Value lang="lt_LT">Adobe Bridge CS6</Value>
+      <Value lang="lv_LV">Adobe Bridge CS6</Value>
+      <Value lang="mk_MK">Adobe Bridge CS6</Value>
+      <Value lang="nb_NO">Adobe Bridge CS6</Value>
+      <Value lang="nl_NL">Adobe Bridge CS6</Value>
+      <Value lang="nn_NO">Adobe Bridge CS6</Value>
+      <Value lang="no_NO">Adobe Bridge CS6</Value>
+      <Value lang="pl_PL">Adobe Bridge CS6</Value>
+      <Value lang="pt_BR">Adobe Bridge CS6</Value>
+      <Value lang="ro_RO">Adobe Bridge CS6</Value>
+      <Value lang="ru_RU">Adobe Bridge CS6</Value>
+      <Value lang="sh_YU">Adobe Bridge CS6</Value>
+      <Value lang="sk_SK">Adobe Bridge CS6</Value>
+      <Value lang="sl_SI">Adobe Bridge CS6</Value>
+      <Value lang="sq_AL">Adobe Bridge CS6</Value>
+      <Value lang="sv_SE">Adobe Bridge CS6</Value>
+      <Value lang="th_TH">Adobe Bridge CS6</Value>
+      <Value lang="tr_TR">Adobe Bridge CS6</Value>
+      <Value lang="uk_UA">Adobe Bridge CS6</Value>
+      <Value lang="vi_VN">Adobe Bridge CS6</Value>
+      <Value lang="zh_CN">Adobe Bridge CS6</Value>
+      <Value lang="zh_TW">Adobe Bridge CS6</Value>
+      <Value lang="en_AE">Adobe Bridge CS6</Value>
+      <Value lang="en_IL">Adobe Bridge CS6</Value>
+      <Value lang="fr_MA">Adobe Bridge CS6</Value>
+    </DisplayName>
+  </AddRemoveInfo></PayloadInfo>
