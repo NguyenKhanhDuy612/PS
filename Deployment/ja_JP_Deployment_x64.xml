@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><Deployment>
+  <Properties>
+    <!--Note that the INSTALLDIR value is machine specific.  The value below is a suggested default value but may need to be overriden.-->
+    <Property name="INSTALLDIR">C:\Program Files\Adobe</Property>
+  <Property name="mediaSignature">{74EB3499-8B95-4B5C-96EB-7B342F3FD0C6}</Property><Property name="driverAdobeCode">{74EB3499-8B95-4B5C-96EB-7B342F3FD0C6}</Property><Property name="installLanguage">ja_JP</Property></Properties>
+  <Payloads>
+    <Payload adobeCode="{74EB3499-8B95-4B5C-96EB-7B342F3FD0C6}">
+      <Action>install</Action>
+    </Payload>
+  <Payload adobeCode="{3289C0E8-78B9-47D4-98E5-F25BFF1CBED4}">
+      <Action>install</Action>
+    </Payload></Payloads>
+</Deployment>
