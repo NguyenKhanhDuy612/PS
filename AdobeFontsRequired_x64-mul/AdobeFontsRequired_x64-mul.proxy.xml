@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo workflowVersion="CS6" version="6.0.29.0" deVersion="6.0">
+  <BuildInfo>
+    <Property name="Created">2012-02-15 12:15:28.182000</Property>
+    <Property name="TargetName">AdobeFontsRequired_x64-mul</Property>
+    <Property name="ProcessorFamily">x64</Property>
+  </BuildInfo>
+  <InstallerProperties>
+    <Property name="payloadType">SQLite</Property>
+    <Property name="AdobeCode">{63594DD4-0241-422A-93A5-B6530040E1C7}</Property>
+    <Property name="ProductName">Adobe Fonts Required x64</Property>
+    <Property name="ProductVersion">2.0</Property>
+  </InstallerProperties>
+  <InstallDir>
+    <Platform isFixed="1" name="Default" folderName="">[FontsFolder]</Platform>
+  </InstallDir>
+  <Languages languageIndependent="1"/>
+  <Streams>
+    <Stream name="AMTConfig" fileName="component.xml">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxDb25maWd1cmF0aW9uPg0K
+ICAgIDxQYXlsb2FkPg0KICAgICAgICA8IS0tIGRlZmF1bHRBZG9iZUNvZGUgZm9yIGRldmVsb3Bt
+ZW50IHVzZS4gLS0+DQogICAgICAgPERhdGEga2V5PSJkZWZhdWx0QWRvYmVDb2RlIj5UeXBlU3Vw
+cG9ydC1JbnN0YWxsZXItQWRvYmVDb2RlPC9EYXRhPg0KICAgIDwvUGF5bG9hZD4NCjwvQ29uZmln
+dXJhdGlvbj4NCg==</Stream>
+  </Streams>
+  <Satisfies>
+    <ProductInfo>
+		<Family>Type Group</Family>
+		<ProductName>Required Common Fonts Installation x64</ProductName>
+	<ProductVersion>2.0</ProductVersion>
+    </ProductInfo>
+  </Satisfies>
+  <Upgrades>
+    <AdobeCode>{7F9C94CD-0BAC-4F8F-8990-6A5886F4D550}</AdobeCode>
+    <AdobeCode>{24B4D531-CE69-446C-933B-0F28EB98CA86}</AdobeCode>
+    <AdobeCode>{DEAD0A61-B7BE-437B-8FB6-8501A9E1073E}</AdobeCode>
+    <AdobeCode>{BA94BF87-86E1-4D62-A40A-347191471BD5}</AdobeCode>
+    <AdobeCode>{E210DAED-AD57-4C51-8771-3FD367918441}</AdobeCode>
+    <AdobeCode>{1B621F5C-5C2B-41EB-9A4E-02EDFF955CD8}</AdobeCode>
+    <AdobeCode>{2C35CE5E-F840-4453-AA4E-C84052FF9CA9}</AdobeCode>
+    <AdobeCode>{BB2BA8D4-6F54-4FCD-A5FA-C02F6E8E4451}</AdobeCode>
+    <AdobeCode>{5E63E4E0-D47A-42E7-BBC6-E7ECA8FE477C}</AdobeCode>
+    <AdobeCode>{0271FCE2-9339-4DFA-B864-77583703C302}</AdobeCode>
+    <AdobeCode>{A824B9D1-B441-424A-960F-3464070F9E5F}</AdobeCode>
+    <AdobeCode>{A2F48CAF-FA8A-4318-9123-3B6C4A3FB0EC}</AdobeCode>
+    <AdobeCode>{30595053-E060-4643-810C-DBF2668F40B2}</AdobeCode>
+    <AdobeCode>{018158D3-2346-497E-8CD5-ACD28F945FC0}</AdobeCode>
+    <AdobeCode>{EC4EAB74-F9A9-449B-A4F3-04DB1A7A13D4}</AdobeCode>
+    <AdobeCode>{41B429EF-0DCC-4E27-8E80-FD9137E74E9E}</AdobeCode>
+    <AdobeCode>{1F0CFC55-8F15-4453-87DC-48CB26D607D6}</AdobeCode>
+    <AdobeCode>{B066B455-2735-4A95-8FBE-2463E7B2839D}</AdobeCode>
+    <AdobeCode>{6B0BD117-39F0-4F0B-9931-06CC67C9E24F}</AdobeCode>
+  </Upgrades>
+  <Channel enable="1" id="AdobeFontsRequiredx64-2.0">
+    <DisplayName>Adobe Fonts Required x64</DisplayName>
+  </Channel>
+  <AMTConfig path="[AdobeCommon]\FontsRequired\2.0\AMT\component.xml" LEID=""/>
+  <ValidationInfo>&lt;ValidationInfo payloadID="{63594DD4-0241-422A-93A5-B6530040E1C7}"/&gt;</ValidationInfo>
+  <ValidationSig>kDbeuAF9MSqBfvIOrn/2T6YkIESeMYsb3Hr2xOykwbmZM4mmF8Jp8EdCi3nEaFcfUAYFS2hkrjrYI88P1xMt6P5DiQ2Cr31JhUaZxYPxCt9Kf3hk4lKDankwWvB+GAp7tmgjFUKHiItjYnELLElFinSUUzNMS2J/dV9OREEbUJkn8qnW6u+SxzLh9z4IWKROm+QJ24lx2wNgvcb1NrbxV++6uXbKy7jckmeNkllU/KXs5I7OU6Q3O3iH7KSdW8IARLwrKsPTBglPEdyM3QaEA968k+4FU0bMu9P5a1OyDFQSaol0ZXWSxpuj68sFQQhIv5zp94CrdcVS5iVQh3gHlgJBCkLMzcRJnWTIzxkOer5ypLn6jERGO4qeS5imrqFV+5NQlcBegySqvB08gogcxdGsLvk6vjYg287gc5DqdSUCS1fOelQI/41VrC4GEJcr5a5nTqrMrE1+VgEoqkyprmHKuqg+p2WMFvwW9BTm64yFnXo++XwzOmTFZItYqJzM</ValidationSig>
+  <InstallDestinationMetadata relocatableSize="0" sysDriveSize="117267738"><Destination>
+      <Root>[_OOBEHome]</Root>
+      <TotalSize>0</TotalSize>
+      <MaxPathComponent>/PCF\component.xml</MaxPathComponent>
+    </Destination>
+    <Destination>
+      <Root>[AdobeCommon]</Root>
+      <TotalSize>238</TotalSize>
+      <MaxPathComponent>/FontsRequired/2.0/AMT\component.xml</MaxPathComponent>
+    </Destination>
+    <Destination>
+      <Root>[FontsFolder]</Root>
+      <TotalSize>117267500</TotalSize>
+      <MaxPathComponent>LetterGothicStd-BoldSlanted.otf</MaxPathComponent>
+    </Destination>
+    <Assets>
+      <Asset flag="0" name="Assets2_1" size="117267738"/>
+    </Assets>
+  </InstallDestinationMetadata>
+  <ConflictingProcesses>
+	<Win32>
+	</Win32>
+</ConflictingProcesses>
+  <AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="ar_AE">2.0</Value>
+      <Value lang="be_BY">2.0</Value>
+      <Value lang="bg_BG">2.0</Value>
+      <Value lang="ca_ES">2.0</Value>
+      <Value lang="cs_CZ">2.0</Value>
+      <Value lang="da_DK">2.0</Value>
+      <Value lang="de_DE">2.0</Value>
+      <Value lang="el_GR">2.0</Value>
+      <Value lang="en_GB">2.0</Value>
+      <Value lang="en_MX">2.0</Value>
+      <Value lang="en_US">2.0</Value>
+      <Value lang="en_XC">2.0</Value>
+      <Value lang="en_XM">2.0</Value>
+      <Value lang="es_ES">2.0</Value>
+      <Value lang="es_MX">2.0</Value>
+      <Value lang="es_QM">2.0</Value>
+      <Value lang="et_EE">2.0</Value>
+      <Value lang="fi_FI">2.0</Value>
+      <Value lang="fr_CA">2.0</Value>
+      <Value lang="fr_FR">2.0</Value>
+      <Value lang="fr_MX">2.0</Value>
+      <Value lang="fr_XM">2.0</Value>
+      <Value lang="he_IL">2.0</Value>
+      <Value lang="hi_IN">2.0</Value>
+      <Value lang="hr_HR">2.0</Value>
+      <Value lang="hu_HU">2.0</Value>
+      <Value lang="is_IS">2.0</Value>
+      <Value lang="it_IT">2.0</Value>
+      <Value lang="ja_JP">2.0</Value>
+      <Value lang="ko_KR">2.0</Value>
+      <Value lang="lt_LT">2.0</Value>
+      <Value lang="lv_LV">2.0</Value>
+      <Value lang="mk_MK">2.0</Value>
+      <Value lang="nb_NO">2.0</Value>
+      <Value lang="nl_NL">2.0</Value>
+      <Value lang="nn_NO">2.0</Value>
+      <Value lang="no_NO">2.0</Value>
+      <Value lang="pl_PL">2.0</Value>
+      <Value lang="pt_BR">2.0</Value>
+      <Value lang="ro_RO">2.0</Value>
+      <Value lang="ru_RU">2.0</Value>
+      <Value lang="sh_YU">2.0</Value>
+      <Value lang="sk_SK">2.0</Value>
+      <Value lang="sl_SI">2.0</Value>
+      <Value lang="sq_AL">2.0</Value>
+      <Value lang="sv_SE">2.0</Value>
+      <Value lang="th_TH">2.0</Value>
+      <Value lang="tr_TR">2.0</Value>
+      <Value lang="uk_UA">2.0</Value>
+      <Value lang="vi_VN">2.0</Value>
+      <Value lang="zh_CN">2.0</Value>
+      <Value lang="zh_TW">2.0</Value>
+      <Value lang="en_AE">2.0</Value>
+      <Value lang="en_IL">2.0</Value>
+      <Value lang="fr_MA">2.0</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="ar_AE">Adobe Fonts Required x64</Value>
+      <Value lang="be_BY">Adobe Fonts Required x64</Value>
+      <Value lang="bg_BG">Adobe Fonts Required x64</Value>
+      <Value lang="ca_ES">Adobe Fonts Required x64</Value>
+      <Value lang="cs_CZ">Adobe Fonts Required x64</Value>
+      <Value lang="da_DK">Adobe Fonts Required x64</Value>
+      <Value lang="de_DE">Adobe Fonts Required x64</Value>
+      <Value lang="el_GR">Adobe Fonts Required x64</Value>
+      <Value lang="en_GB">Adobe Fonts Required x64</Value>
+      <Value lang="en_MX">Adobe Fonts Required x64</Value>
+      <Value lang="en_US">Adobe Fonts Required x64</Value>
+      <Value lang="en_XC">Adobe Fonts Required x64</Value>
+      <Value lang="en_XM">Adobe Fonts Required x64</Value>
+      <Value lang="es_ES">Adobe Fonts Required x64</Value>
+      <Value lang="es_MX">Adobe Fonts Required x64</Value>
+      <Value lang="es_QM">Adobe Fonts Required x64</Value>
+      <Value lang="et_EE">Adobe Fonts Required x64</Value>
+      <Value lang="fi_FI">Adobe Fonts Required x64</Value>
+      <Value lang="fr_CA">Adobe Fonts Required x64</Value>
+      <Value lang="fr_FR">Adobe Fonts Required x64</Value>
+      <Value lang="fr_MX">Adobe Fonts Required x64</Value>
+      <Value lang="fr_XM">Adobe Fonts Required x64</Value>
+      <Value lang="he_IL">Adobe Fonts Required x64</Value>
+      <Value lang="hi_IN">Adobe Fonts Required x64</Value>
+      <Value lang="hr_HR">Adobe Fonts Required x64</Value>
+      <Value lang="hu_HU">Adobe Fonts Required x64</Value>
+      <Value lang="is_IS">Adobe Fonts Required x64</Value>
+      <Value lang="it_IT">Adobe Fonts Required x64</Value>
+      <Value lang="ja_JP">Adobe Fonts Required x64</Value>
+      <Value lang="ko_KR">Adobe Fonts Required x64</Value>
+      <Value lang="lt_LT">Adobe Fonts Required x64</Value>
+      <Value lang="lv_LV">Adobe Fonts Required x64</Value>
+      <Value lang="mk_MK">Adobe Fonts Required x64</Value>
+      <Value lang="nb_NO">Adobe Fonts Required x64</Value>
+      <Value lang="nl_NL">Adobe Fonts Required x64</Value>
+      <Value lang="nn_NO">Adobe Fonts Required x64</Value>
+      <Value lang="no_NO">Adobe Fonts Required x64</Value>
+      <Value lang="pl_PL">Adobe Fonts Required x64</Value>
+      <Value lang="pt_BR">Adobe Fonts Required x64</Value>
+      <Value lang="ro_RO">Adobe Fonts Required x64</Value>
+      <Value lang="ru_RU">Adobe Fonts Required x64</Value>
+      <Value lang="sh_YU">Adobe Fonts Required x64</Value>
+      <Value lang="sk_SK">Adobe Fonts Required x64</Value>
+      <Value lang="sl_SI">Adobe Fonts Required x64</Value>
+      <Value lang="sq_AL">Adobe Fonts Required x64</Value>
+      <Value lang="sv_SE">Adobe Fonts Required x64</Value>
+      <Value lang="th_TH">Adobe Fonts Required x64</Value>
+      <Value lang="tr_TR">Adobe Fonts Required x64</Value>
+      <Value lang="uk_UA">Adobe Fonts Required x64</Value>
+      <Value lang="vi_VN">Adobe Fonts Required x64</Value>
+      <Value lang="zh_CN">Adobe Fonts Required x64</Value>
+      <Value lang="zh_TW">Adobe Fonts Required x64</Value>
+      <Value lang="en_AE">Adobe Fonts Required x64</Value>
+      <Value lang="en_IL">Adobe Fonts Required x64</Value>
+      <Value lang="fr_MA">Adobe Fonts Required x64</Value>
+    </DisplayName>
+  </AddRemoveInfo>
+  <UserPreferences>0</UserPreferences>
+</PayloadInfo>
