@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="6.0.29.0" md5="8acf6013fbffd0a11456026dc0cccf00"><BuildInfo>
+    <Property name="Created">2012-02-23 00:02:43.251000</Property>
+    <Property name="TargetName">AdobeDynamicLinkMediaServer1All</Property>
+    <Property name="ProcessorFamily">All</Property>
+  </BuildInfo><InstallerProperties>
+    <Property name="payloadType">SQLite</Property>
+    <Property name="AdobeCode">{0377892E-FCAC-46EC-AA70-C6AC8A86A81F}</Property>
+    <Property name="ProductName">Adobe Dynamic Link Media Server</Property>
+    <Property name="ProductVersion">1.0</Property>
+  </InstallerProperties><Languages languageIndependent="1"/><Satisfies>
+    <ProductInfo>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<Family>DVA</Family>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<ProductName>Dynamic Link Media Server</ProductName>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<ProductVersion>1.0</ProductVersion>
+    </ProductInfo>
+  </Satisfies><AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="ar_AE">1.0</Value>
+      <Value lang="be_BY">1.0</Value>
+      <Value lang="bg_BG">1.0</Value>
+      <Value lang="ca_ES">1.0</Value>
+      <Value lang="cs_CZ">1.0</Value>
+      <Value lang="da_DK">1.0</Value>
+      <Value lang="de_DE">1.0</Value>
+      <Value lang="el_GR">1.0</Value>
+      <Value lang="en_GB">1.0</Value>
+      <Value lang="en_MX">1.0</Value>
+      <Value lang="en_US">1.0</Value>
+      <Value lang="en_XC">1.0</Value>
+      <Value lang="en_XM">1.0</Value>
+      <Value lang="es_ES">1.0</Value>
+      <Value lang="es_MX">1.0</Value>
+      <Value lang="es_QM">1.0</Value>
+      <Value lang="et_EE">1.0</Value>
+      <Value lang="fi_FI">1.0</Value>
+      <Value lang="fr_CA">1.0</Value>
+      <Value lang="fr_FR">1.0</Value>
+      <Value lang="fr_MX">1.0</Value>
+      <Value lang="fr_XM">1.0</Value>
+      <Value lang="he_IL">1.0</Value>
+      <Value lang="hi_IN">1.0</Value>
+      <Value lang="hr_HR">1.0</Value>
+      <Value lang="hu_HU">1.0</Value>
+      <Value lang="is_IS">1.0</Value>
+      <Value lang="it_IT">1.0</Value>
+      <Value lang="ja_JP">1.0</Value>
+      <Value lang="ko_KR">1.0</Value>
+      <Value lang="lt_LT">1.0</Value>
+      <Value lang="lv_LV">1.0</Value>
+      <Value lang="mk_MK">1.0</Value>
+      <Value lang="nb_NO">1.0</Value>
+      <Value lang="nl_NL">1.0</Value>
+      <Value lang="nn_NO">1.0</Value>
+      <Value lang="no_NO">1.0</Value>
+      <Value lang="pl_PL">1.0</Value>
+      <Value lang="pt_BR">1.0</Value>
+      <Value lang="ro_RO">1.0</Value>
+      <Value lang="ru_RU">1.0</Value>
+      <Value lang="sh_YU">1.0</Value>
+      <Value lang="sk_SK">1.0</Value>
+      <Value lang="sl_SI">1.0</Value>
+      <Value lang="sq_AL">1.0</Value>
+      <Value lang="sv_SE">1.0</Value>
+      <Value lang="th_TH">1.0</Value>
+      <Value lang="tr_TR">1.0</Value>
+      <Value lang="uk_UA">1.0</Value>
+      <Value lang="vi_VN">1.0</Value>
+      <Value lang="zh_CN">1.0</Value>
+      <Value lang="zh_TW">1.0</Value>
+      <Value lang="en_AE">1.0</Value>
+      <Value lang="en_IL">1.0</Value>
+      <Value lang="fr_MA">1.0</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="ar_AE">Adobe Dynamic Link Media Server</Value>
+      <Value lang="be_BY">Adobe Dynamic Link Media Server</Value>
+      <Value lang="bg_BG">Adobe Dynamic Link Media Server</Value>
+      <Value lang="ca_ES">Adobe Dynamic Link Media Server</Value>
+      <Value lang="cs_CZ">Adobe Dynamic Link Media Server</Value>
+      <Value lang="da_DK">Adobe Dynamic Link Media Server</Value>
+      <Value lang="de_DE">Adobe Dynamic Link Media Server</Value>
+      <Value lang="el_GR">Adobe Dynamic Link Media Server</Value>
+      <Value lang="en_GB">Adobe Dynamic Link Media Server</Value>
+      <Value lang="en_MX">Adobe Dynamic Link Media Server</Value>
+      <Value lang="en_US">Adobe Dynamic Link Media Server</Value>
+      <Value lang="en_XC">Adobe Dynamic Link Media Server</Value>
+      <Value lang="en_XM">Adobe Dynamic Link Media Server</Value>
+      <Value lang="es_ES">Adobe Dynamic Link Media Server</Value>
+      <Value lang="es_MX">Adobe Dynamic Link Media Server</Value>
+      <Value lang="es_QM">Adobe Dynamic Link Media Server</Value>
+      <Value lang="et_EE">Adobe Dynamic Link Media Server</Value>
+      <Value lang="fi_FI">Adobe Dynamic Link Media Server</Value>
+      <Value lang="fr_CA">Adobe Dynamic Link Media Server</Value>
+      <Value lang="fr_FR">Adobe Dynamic Link Media Server</Value>
+      <Value lang="fr_MX">Adobe Dynamic Link Media Server</Value>
+      <Value lang="fr_XM">Adobe Dynamic Link Media Server</Value>
+      <Value lang="he_IL">Adobe Dynamic Link Media Server</Value>
+      <Value lang="hi_IN">Adobe Dynamic Link Media Server</Value>
+      <Value lang="hr_HR">Adobe Dynamic Link Media Server</Value>
+      <Value lang="hu_HU">Adobe Dynamic Link Media Server</Value>
+      <Value lang="is_IS">Adobe Dynamic Link Media Server</Value>
+      <Value lang="it_IT">Adobe Dynamic Link Media Server</Value>
+      <Value lang="ja_JP">Adobe Dynamic Link Media Server</Value>
+      <Value lang="ko_KR">Adobe Dynamic Link Media Server</Value>
+      <Value lang="lt_LT">Adobe Dynamic Link Media Server</Value>
+      <Value lang="lv_LV">Adobe Dynamic Link Media Server</Value>
+      <Value lang="mk_MK">Adobe Dynamic Link Media Server</Value>
+      <Value lang="nb_NO">Adobe Dynamic Link Media Server</Value>
+      <Value lang="nl_NL">Adobe Dynamic Link Media Server</Value>
+      <Value lang="nn_NO">Adobe Dynamic Link Media Server</Value>
+      <Value lang="no_NO">Adobe Dynamic Link Media Server</Value>
+      <Value lang="pl_PL">Adobe Dynamic Link Media Server</Value>
+      <Value lang="pt_BR">Adobe Dynamic Link Media Server</Value>
+      <Value lang="ro_RO">Adobe Dynamic Link Media Server</Value>
+      <Value lang="ru_RU">Adobe Dynamic Link Media Server</Value>
+      <Value lang="sh_YU">Adobe Dynamic Link Media Server</Value>
+      <Value lang="sk_SK">Adobe Dynamic Link Media Server</Value>
+      <Value lang="sl_SI">Adobe Dynamic Link Media Server</Value>
+      <Value lang="sq_AL">Adobe Dynamic Link Media Server</Value>
+      <Value lang="sv_SE">Adobe Dynamic Link Media Server</Value>
+      <Value lang="th_TH">Adobe Dynamic Link Media Server</Value>
+      <Value lang="tr_TR">Adobe Dynamic Link Media Server</Value>
+      <Value lang="uk_UA">Adobe Dynamic Link Media Server</Value>
+      <Value lang="vi_VN">Adobe Dynamic Link Media Server</Value>
+      <Value lang="zh_CN">Adobe Dynamic Link Media Server</Value>
+      <Value lang="zh_TW">Adobe Dynamic Link Media Server</Value>
+      <Value lang="en_AE">Adobe Dynamic Link Media Server</Value>
+      <Value lang="en_IL">Adobe Dynamic Link Media Server</Value>
+      <Value lang="fr_MA">Adobe Dynamic Link Media Server</Value>
+    </DisplayName>
+  </AddRemoveInfo></PayloadInfo>
